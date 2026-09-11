@@ -5,7 +5,7 @@
 
 
 ## 👾 Projects:
-[https://brawlsports.gg](url): **[Active Development 🕓]**
+[brawlsports.gg](https://brawlsports.gg): **[Active Development 🕓]**
 > * React website designed for Brawl Stars Esports analytics - Combining APIs, prediction models, user management with Supabase Postgres, news blogs and fantasy gamemode onto one site for all! </br>
 > * *Tools: React, Javascript, Tailwind, Supabase PostgresSQL*
 
