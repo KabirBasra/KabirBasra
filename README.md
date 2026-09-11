@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## 🧑‍💻 About me:
 > Name: **Kabir Basra** | Age: **19**<br/>
 > Studying: **Computer Science (with AI) & Year in Industry (2nd Year)**<br/>
@@ -12,9 +10,10 @@
 > * *Tools: React, Javascript, Tailwind, Supabase PostgresSQL*
 
 **Barista System**: **[Completed Development ✅]**
-> * University 1st Year project, tasked to create an application system for customers, baristas and managers involving. Resposible for Barista dashboard and database management.
+> * University 1st Year group project, tasked to create an application system for customers, baristas and managers involving. Responsible for Barista dashboard with database management and group minutes scribe.
 > * *Tools: Ruby, Javascript, HTML, Tailwind and SQL*
 
+<!--
 **Brawl Competitive**: **[Completed Development ✅]**
 > * Discord Bot designed for a competitive Brawl Stars 3rd-party ranked league. Utilises a custom elo-rating algorithm for MMR distribution across ranked-tiered matchmaking lobbies. Interviewed YouTuber, @KevinFBrawlStars, as stakeholder.
 > * *Tools: Python and Discord Bot API*
@@ -22,7 +21,7 @@
 
 
 
-<!--
+
 **KabirBasra/KabirBasra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
