@@ -1,17 +1,23 @@
 ## 🧑‍💻 About me:
-> Name: **Kabir Basra** | Age: **19**<br/>
-> Studying: **Computer Science (with AI) & Year in Industry (2nd Year)**<br/>
-> University: **University of Sheffield**
+> Name: **Kabir Basra** | Age: **19** <br/>
+> Studying: **Computer Science (with AI) & Year in Industry (2nd Year)** <br/>
+> University: **University of Sheffield** <br/> 
+> Looking For: **SE, Data and ML Internships for 2027-2028** <br/>
+> Contact: [LinkedIn](https://uk.linkedin.com/in/kabir-basra-435b65282)
 
 
 ## 👾 Projects:
-[brawlsports.gg](https://brawlsports.gg): **[Active Development 🕓]**
-> * React website designed for Brawl Stars Esports analytics - Combining APIs, prediction models, user management with Supabase Postgres, news blogs and fantasy gamemode onto one site for all! </br>
-> * *Tools: React, Javascript, Tailwind, Supabase PostgresSQL*
+🌐 [brawlsports.gg](https://brawlsports.gg): **[Active Development 🕓]** 
+> * React website designed for Brawl Stars Esports analytics - Combining APIs, prediction models, user management with Supabase, news blogs and a fantasy gamemode onto a single website! </br>
+> * *Tools: React, Javascript, Tailwind, Supabase (PostgresSQL)*
 
-**Barista System**: **[Completed Development ✅]**
-> * University 1st Year group project, tasked to create an application system for customers, baristas and managers involving. Responsible for Barista dashboard with database management and group minutes scribe.
-> * *Tools: Ruby, Javascript, HTML, Tailwind and SQL*
+**🎓 Self-Teaching ML Models**: **[Active Development 🕓]**
+> * Using Python to teach myself about different machine learning models, with libraries such as NumPy and PyTorch. Building real-world examples of linear regression, KNN classification and basic neural networks.
+> * *Tools: Python, ML libraries -  NumPy, PyTorch, TensorFlow*
+
+**☕️ Barista System**: **[Completed Development ✅]**
+> * University 1st Year group project - Tasked to create a web-based system for a fictional coffee shop. Responsible for Barista dashboard with database management and hosting minutes meetings with the team.
+> * Tools: Ruby, Javascript, HTML, Tailwind and SQL*
 
 <!--
 **Brawl Competitive**: **[Completed Development ✅]**
